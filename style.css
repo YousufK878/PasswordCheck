@@ -1,0 +1,25 @@
+#success, #error {
+    display: none;
+    font-size: 50px;
+}
+
+#success {
+    color: green;
+}
+
+#error {
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+form, input, button {
+    font-size: 30px;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+}
